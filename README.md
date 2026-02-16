@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Improving orderbook simulation accuracy & latency-sensitive execution design**
 
-- 💬 Ask me about **Markets, poker, probabilistic thinkin or golf!**
+- 💬 Ask me about **Markets, poker or golf!**
 
 - 📫 How to reach me **cullenj9@tcd.ie**
 
