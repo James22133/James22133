@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center"> Penultimate Year Mechanical Engineering student at TCD</h3>
 
-- 🔭 I’m currently working on **Cross-Exchange Arbitrage (Polymarket ↔ Kalshi) Building an execution-aware arbitrage system focused on latency asymmetry, stale orderbooks, slippage, and partial fills. Recently refactored to a single async architecture with stricter order validation, slippage-adjusted EV filtering, liquidity-weighted edge scoring, and dynamic sizing based on fill probability.**
+- 🔭 I’m currently working on **Cross-Exchange Arbitrage (Polymarket ↔ Kalshi) Building an execution-aware arbitrage system focused on latency asymmetry(soon to be deployed on a VPS), stale orderbooks, slippage, and partial fills. Recently refactored to a single async architecture with stricter order validation, slippage-adjusted EV filtering, liquidity-weighted edge scoring, and dynamic sizing based on fill probability.**
 
 - 🌱 I’m currently learning **Latency-sensitive execution, adverse selection and fill probability modeling, orderbook microstructure, and position sizing under correlated exposures.**
 
