@@ -1,4 +1,4 @@
-# JamesCullen
+# James Cullen
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center"> Penultimate Year Mechanical Engineering student at TCD</h3>
 
