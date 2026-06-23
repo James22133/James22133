@@ -1,6 +1,6 @@
 # James Cullen
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center"> Penultimate Year Mechanical Engineering student at TCD</h3>
+<h3 align="center"> Final Year Mechanical Engineering student at Trinity College Dublin</h3>
 
 - 🔭 I’m currently working on **Cross-Exchange Arbitrage (Polymarket ↔ Kalshi) Building an execution-aware arbitrage system focused on latency asymmetry(soon to be deployed on a VPS), stale orderbooks, slippage, and partial fills. Recently refactored to a single async architecture with stricter order validation, slippage-adjusted EV filtering, liquidity-weighted edge scoring, and dynamic sizing based on fill probability.**
 
